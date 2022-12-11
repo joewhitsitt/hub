@@ -7,4 +7,5 @@ alias:
 ---
 
 father: [[James Richard Whitsitt]]
+
 mother: [[Susan Marie Killelea]]

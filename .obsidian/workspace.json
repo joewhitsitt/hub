@@ -11,12 +11,8 @@
             "id": "ae70091050c26f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,15 +154,15 @@
   },
   "active": "ae70091050c26f18",
   "lastOpenFiles": [
+    "notes/Second-Note.md",
     "content/notes/Hello.md",
-    "content/templates/post.md",
     "content/tree/Joseph Killelea Whitsitt.md",
+    "content/notes/Second Note.md",
+    "content/templates/post.md",
     "README.md",
     "content/_index.md",
-    "content/notes/Second Note.md",
     "content/notes/Wish List.md",
     "screenshot.png",
-    "CODE_OF_CONDUCT.md",
-    "content/notes/CJK + Latex Support (测试).md"
+    "CODE_OF_CONDUCT.md"
   ]
 }
