@@ -4,4 +4,4 @@ tags:
 - note
 ---
 
-[[Second Note]]
+[Second Note](Second%20Note.md)
