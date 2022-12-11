@@ -3,6 +3,7 @@ title: 🪴 (jw).
 enableToc: false
 ---
 
-[[Notes]]
-[[wishlist]]
+[Notes](/notes)
+[Wish List](/notes/wishlist.md)
+
 
