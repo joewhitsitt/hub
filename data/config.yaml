@@ -12,17 +12,12 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/joewhitsitt/hub/tree/hugo/content
+GitHubLink: https://github.com/joewhitsitt/tree/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  My personal digital garden made possible by Hugo, Obsidian and Quartz.
+  My family tree made possible by Hugo, Obsidian and Quartz.
 page_title:
-  "🪴 (jw)"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/joewhitsitt
-  - link_name: Github
-    link: https://github.com/joewhitsitt
+  "🪴 My Family Tree"
