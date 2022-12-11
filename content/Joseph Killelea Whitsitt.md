@@ -13,7 +13,9 @@ birth:
   - location: #Iowa-City, #Johnson-County, #Iowa, #United-States
 
 father: [James Richard Whitsitt](James%20Richard%20Whitsitt.md)  
+
 mother: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
+
 siblings:
   - [Sara Christine Whitsitt](Sara%20Christine%20Whitsitt.md)
 

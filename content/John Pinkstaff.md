@@ -11,6 +11,7 @@ death:
   - date: 18560817
 
 father: [Andrew Pinkstaff](Andrew%20Pinkstaff.md)  
+
 mother: [Winnie Owen Redmon](Winnie%20Owen%20Redmon.md)
 
 marriage:

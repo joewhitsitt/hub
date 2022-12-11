@@ -11,6 +11,7 @@ death:
   - date: 18960209
 
 father: [Adam Lackey Sr](Adam%20Lackey%20Sr.md)  
+
 mother: [Catherine Lester](Catherine%20Lester)
 
 marriage:

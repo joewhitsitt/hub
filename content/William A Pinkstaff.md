@@ -11,6 +11,7 @@ death:
   - date: 19310410
 
 father: [Alfred Pinkstaff](Alfred%20Pinkstaff.md)  
+
 mother: [Martha Borden](Martha%20Borden.md)
 
 marriage:

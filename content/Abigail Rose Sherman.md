@@ -11,7 +11,9 @@ birth:
   - location: #Iowa-City, #Johnson-County, #Iowa, #United-States
 
 father: [Bradley Sherman](Bradley%20Sherman)
+
 mother: [Carole Byrd](Carole%20Byrd)
+
 siblings: 
   - [Benjamin Sherman](Benjamin%20Sherman)
   - [Hilah Sherman](Hilah%20Sherman)

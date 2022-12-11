@@ -13,6 +13,7 @@ death:
   - location: #Pennsylvania, #United-States
 
 father: [William Lackey](William%20Lackey.md)
+
 mother: "Rebecca"
 
 marriage:

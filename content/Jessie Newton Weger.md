@@ -11,6 +11,7 @@ death:
   - date: 19330228
 
 father: [William E Weger](William%20E%20Weger.md)  
+
 mother: [Nancy Olivia Lackey Heath](Nancy%20Olivia%20Lackey%20Heath.md)
 
 marriage:

@@ -11,6 +11,7 @@ death:
   - date: 19461021
 
 father: [John Henderson Mullins](John%20Henderson%20Mullins.md)  
+
 mother: [Rebecca Springer](Rebecca%20Springer.md)
 
 marriage:

@@ -13,6 +13,7 @@ death:
   - date: 18770722
 
 father: [Stephen Steffey](Stephen%20Steffey.md)
+
 mother: [Elizabeth Steffy](Elizabeth%20Steffy.md)
 
 marriage:

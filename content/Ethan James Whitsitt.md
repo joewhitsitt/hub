@@ -1,8 +1,14 @@
 ---
 title: "Ethan James Whitsitt"
+alias:
+- "Ethan Whitsitt"
 tags:
 - whitsitt
 ---
+
+birth:
+  - date: 20160321
+  - location: #Iowa-City #Iowa #United-States 
 
 father: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
 

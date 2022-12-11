@@ -11,6 +11,7 @@ death:
   - date: 1922
 
 father: [Samuel Borden](Samuel%20Borden.md)  
+
 mother: [Sarah Wright](Sarah%20Wright.md)
 
 marriage:

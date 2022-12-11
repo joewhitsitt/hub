@@ -14,6 +14,7 @@ death:
   - notes: "1860-63"
 
 father: [Joseph Borden](Joseph%20Borden.md)   
+
 mother: [Lydia Pittman](Lydia%20Pittman)
 
 marriage:

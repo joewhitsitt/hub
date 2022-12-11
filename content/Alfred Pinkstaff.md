@@ -11,6 +11,7 @@ death:
   - date: 18951007
 
 father: [John Pinkstaff](John%20Pinkstaff.md)  
+
 mother: [Susanna Foley](Susanna%20Foley.md)
 
 marriage:

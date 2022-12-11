@@ -11,6 +11,7 @@ death:
   - date: 18741122
 
 father: [Giles Wright](Giles%20Wright.md)  
+
 mother: Mary
 
 marriage:

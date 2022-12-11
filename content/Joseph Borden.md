@@ -13,6 +13,7 @@ death:
   - location: #New-Jersey
 
 father: [Jonathan Borden Jr](Jonathan%20Borden%20Jr.md)  
+
 mother: [Martha Holme](Martha%20Holme)
 
 marriage:

@@ -13,6 +13,7 @@ death:
   - location: #Pennsylvania , #United-States 
 
 father: [James Leckie](James%20Leckie.md)  
+
 mother: [Janet Craig](Janet%20Craig.md)
 
 marriage:

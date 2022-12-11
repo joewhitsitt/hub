@@ -11,6 +11,7 @@ death:
   - date: 19610613
 
 father: [William A Pinkstaff](William%20A%20Pinkstaff.md)  
+
 mother: [Maria Jane Borden](Maria%20Jane%20Borden.md)
 
 marriage:

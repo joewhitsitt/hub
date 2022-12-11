@@ -11,6 +11,7 @@ birth:
   - location: #Virginia , #United-States 
 
 father: [Michael Staley](Michael%20Staley)  
+
 mother: [Maria Catherine Margaret Catron](Maria%20Catherine%20Margaret%20Catron)
 
 marriage:

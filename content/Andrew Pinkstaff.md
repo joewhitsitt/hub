@@ -13,6 +13,7 @@ death:
   - location: #Illinois, #United-States 
 
 father: [Christianus Pfingsttag](Christianus%20Pfingsttag.md) 
+
 mother: [Anna Eberwein](Anna%20Eberwein.md)
 
 marriage:

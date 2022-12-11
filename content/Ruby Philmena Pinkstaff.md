@@ -14,6 +14,7 @@ death:
 	- burial location: #Memorial-Park-Cemetery, #Muscatine, #Muscatine-County, #Iowa, #United-States
 
 father: [Gilbert Estes Pinkstaff](Gilbert%20Estes%20Pinkstaff.md)  
+
 mother: [Rebecca Olivia Weger](Rebecca%20Olivia%20Weger.md)
 
 marriage:

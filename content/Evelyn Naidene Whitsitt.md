@@ -1,8 +1,14 @@
 ---
 title: "Evelyn Naidene Whitsitt"
+alias:
+- "Evelyn Whitsitt"
 tags:
 - whitsitt
 ---
+
+birth:
+  - date: 20130624
+  - location: #Iowa-City #Iowa #United-States 
 
 father: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
 

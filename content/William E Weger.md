@@ -11,6 +11,7 @@ death:
   - date: 18841006
 
 father: [William C Weger Sr](William%20C%20Weger%20Sr.md)  
+
 mother: [Elizabeth Gragg](Elizabeth%20Gragg.md)
 
 marriage:

@@ -14,6 +14,7 @@ death:
   - burial location: #Memorial-Park-Cemetery, #Muscatine, #Muscatine-County, #Iowa, #United-States
 
 father: [John William Whitsitt](John%20William%20Whitsitt)  
+
 mother: [Willie May Johnson](Willie%20May%20Johnson)
 
 marriage:

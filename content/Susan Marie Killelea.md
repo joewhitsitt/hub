@@ -12,7 +12,9 @@ birth:
   - location: #Hot-Springs, #Arkansas, #United-States 
 
 father: [Donald Joseph Killelea](Donald%20Joseph%20Killelea.md)   
+
 mother: [Jean Hebel](Jean%20Hebel.md)
+
 siblings:
   - [Kathleen Killelea](Kathleen%20Killelea) (adopted)
   - [Tim Killelea](Tim%20Killelea) (adopted)

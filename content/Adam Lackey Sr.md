@@ -11,6 +11,7 @@ death:
   - date: 18360213
 
 father: [Alexander Lackey](Alexander%20Lackey.md) 
+
 mother: "Hannah B:1735 MD D:1759 MD"
 
 marriage:

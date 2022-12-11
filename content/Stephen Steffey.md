@@ -5,6 +5,7 @@ tags:
 ---
 
 father: [Henry Steffey II](Henry%20Steffey%20II.md)  
+
 mother: [Christina Staley](Christina%20Staley.md)
 
 marriage:

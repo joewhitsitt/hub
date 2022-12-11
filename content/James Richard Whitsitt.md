@@ -12,7 +12,9 @@ birth:
   - location: #Muscatine, #Iowa, #United-States 
 
 father: [Almon Joseph Whitsitt](Almon%20Joseph%20Whitsitt.md)  
+
 mother: [Ruby Philmena Pinkstaff](Ruby%20Philmena%20Pinkstaff.md)
+
 siblings:
   - [Barbara Whitsitt](Barbara%20Whitsitt)
 
