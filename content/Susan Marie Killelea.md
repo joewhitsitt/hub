@@ -23,6 +23,7 @@ siblings:
 marriage:
   - date: 19790427
   - spouse: [James Richard Whitsitt](James%20Richard%20Whitsitt.md) 
+  - location: #St-Columbia, #Ottawa, #Illinois , #United-States 
 
 children:
   - [Sara Christine Whitsitt](Sara%20Christine%20Whitsitt.md)

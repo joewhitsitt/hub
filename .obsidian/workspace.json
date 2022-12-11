@@ -11,11 +11,100 @@
             "id": "855b368e638a2b25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/James Richard Whitsitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75da20ebdce252e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Susan Marie Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20aa77a7579b38be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Jean Hebel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f56d85d4825ae99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Donald Joseph Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28fa3ac77321eb9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Francis Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ca0c5cb7441420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Madaline Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "432820a8940aab9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Jim Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111135d4920ccd3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/James Timothy Killelea Sr.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Francis Killelea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Francis Killelea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Francis Killelea.md"
+              }
             }
           }
         ]
@@ -128,17 +221,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "855b368e638a2b25",
+  "active": "28fa3ac77321eb9d",
   "lastOpenFiles": [
-    "content/Winnie Owen Redmon.md",
-    "content/William Lackey.md",
-    "content/William E Weger.md",
-    "content/William C Weger Sr.md",
-    "content/William A Pinkstaff.md",
-    "content/Susanna Foley.md",
+    "content/Donald Joseph Killelea.md",
+    "content/James Timothy Killelea Sr.md",
+    "content/Jim Killelea.md",
+    "content/Madaline Killelea.md",
+    "content/Francis Killelea.md",
+    "content/Jean Hebel.md",
     "content/Susan Marie Killelea.md",
-    "content/Stephen Steffey.md",
-    "content/Sarah Wright.md",
-    "content/Sara Christine Whitsitt.md"
+    "content/James Richard Whitsitt.md",
+    "content/Winnie Owen Redmon.md",
+    "content/William Lackey.md"
   ]
 }

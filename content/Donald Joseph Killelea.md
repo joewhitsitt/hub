@@ -3,6 +3,12 @@ title: "Donald Joseph Killelea"
 tags:
 - killelea
 ---
+birth:
+  - date: 19240916
+
+father: [[James Timothy Killelea Sr]]
+
+mother: [[Mary Elizabeth Donahue]]
 
 siblings:
   - [Francis Killelea](Francis%20Killelea)
