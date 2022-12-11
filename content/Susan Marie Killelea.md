@@ -1,7 +1,7 @@
 ---
 title: "Susan Marie Killelea"
 tags:
-- family-tree
+- tree
 ---
 
-children: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
+children: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md), Sara Christine Scheib

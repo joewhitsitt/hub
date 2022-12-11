@@ -1,7 +1,7 @@
 ---
 title: "Joseph Killelea Whitsitt"
 tags:
-- family-tree
+- tree
 alias:
 - "Joe"
 - "Joe Whitsitt"
