@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "fe8717666329fc4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b40280d1709e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae70091050c26f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7b5b7110cfaae98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c111c269ad012c1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c03a7571b51d94b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c357f20f34188220",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0738f7299d3a858",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a99283a7a685c8f6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7889e9905a82f97b",
+    "type": "split",
+    "children": [
+      {
+        "id": "07aaae8bc0a1e052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6168ac8973e88e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "038417c6a4e36712",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f695d2d164e80c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "428b0b7f213730a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d7b5b7110cfaae98",
+  "lastOpenFiles": [
+    "screenshot.png",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "content/notes/Second Note.md",
+    "content/notes/Hello.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/kitchen sink.md",
+    "content/notes/config.md",
+    "content/notes/images/github-actions.png",
+    "content/notes/images/google-domains.png"
+  ]
+}
