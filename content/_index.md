@@ -3,6 +3,6 @@ title: 🪴 (jw).
 enableToc: false
 ---
 
-Hello.
+[[Notes]]
+[[wishlist]]
 
-[See notes](/notes)
