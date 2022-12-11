@@ -3,4 +3,4 @@ title: 🪴 (jw).
 enableToc: false
 ---
 
-[view all family tree entries](tags/tree)
+Start with [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
