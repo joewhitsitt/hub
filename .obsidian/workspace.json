@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "content/",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5b979bece987e4b",
+  "active": "c357f20f34188220",
   "lastOpenFiles": [
     "content/Susan Marie Killelea.md",
     "content/Sara Christine Whitsitt.md",
