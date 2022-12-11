@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
+                "file": "content/tree/joseph-killelea-whitsitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
+                "file": "content/tree/joseph-killelea-whitsitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tree/Joseph Killelea Whitsitt.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -173,14 +173,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c357f20f34188220",
+  "active": "24a5c22b18116c53",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/notes/wishlist.md",
     "content/notes/second.md",
     "content/notes/hello.md",
-    "content/tree/Joseph Killelea Whitsitt.md",
-    "content/tree/James Richard Whitsitt.md",
+    "content/tree/james-richard-whitsitt.md",
+    "content/tree/joseph-killelea-whitsitt.md",
+    "content/_index.md",
     "notes/Second-Note.md",
     "content/templates/post.md",
     "README.md",
