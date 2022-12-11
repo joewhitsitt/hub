@@ -16,16 +16,16 @@ father: [James Richard Whitsitt](James%20Richard%20Whitsitt.md)
 mother: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
 
 siblings:
-  - [[Sara Christine Whitsitt]]
+  - [Sara Christine Whitsitt](content/Sara%20Christine%20Whitsitt.md)
 
 marriage:
   - date: 20091017
   - location: #Coralville, #Johnson-County, #Iowa, #United-States
-  - spouse: [[Abigail Rose Sherman]]
+  - spouse: [Abigail Rose Sherman](content/Abigail%20Rose%20Sherman.md)
 
 children:
-  - [[Evelyn Naidene Whitsitt]]
-  - [[Ethan James Whitsitt]]
+  - [Evelyn Naidene Whitsitt](content/Evelyn%20Naidene%20Whitsitt.md)
+  - [Ethan James Whitsitt](content/Ethan%20James%20Whitsitt.md)
 
 occupations:
   - "Senior Application Developer", "The University of Iowa"

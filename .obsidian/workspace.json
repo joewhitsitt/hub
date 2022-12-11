@@ -11,8 +11,48 @@
             "id": "d5b979bece987e4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Joseph Killelea Whitsitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b7e4f78f5b101c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Joseph Killelea Whitsitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3f0d207c9877b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Joseph Killelea Whitsitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5349180d5aca7f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Joseph Killelea Whitsitt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -114,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Sara Christine Whitsitt.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Sara Christine Whitsitt.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Sara Christine Whitsitt.md"
+                "file": "content/Joseph Killelea Whitsitt.md"
               }
             }
           }
@@ -165,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c357f20f34188220",
+  "active": "5349180d5aca7f02",
   "lastOpenFiles": [
+    "content/Ethan James Whitsitt.md",
     "content/Joseph Killelea Whitsitt.md",
-    "content/private/private-note.md",
     "content/Susan Marie Killelea.md",
+    "content/Sara Christine Whitsitt.md",
     "content/James Richard Whitsitt.md",
-    "content/_index.md",
-    "content/wishlist.md",
-    "content/notes/hello.md",
-    "content/notes/second.md",
-    "tree/james-richard-whitsitt.md",
-    "notes/Second-Note.md"
+    "content/Evelyn Naidene Whitsitt.md",
+    "content/Abigail Rose Sherman.md",
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/_index.md"
   ]
 }
