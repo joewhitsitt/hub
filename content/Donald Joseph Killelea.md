@@ -12,8 +12,8 @@ mother: [[Mary Elizabeth Donahue]]
 
 siblings:
   - [Francis Killelea](Francis%20Killelea)
-  - [Madaline Killelea](Madaline%20Killelea)
-  - [Jim Killelea](Jim%20Killelea)
+  - [Mary Madaline Killelea](Mary%20Madaline%20Killelea.md)
+  - [James Timothy Killelea II](James%20Timothy%20Killelea%20II.md)
 
 marriage:
   - date: 19500805

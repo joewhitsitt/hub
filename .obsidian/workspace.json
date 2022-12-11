@@ -61,7 +61,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Francis Killelea.md",
+                "file": "content/James Timothy Killelea II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae7a5ea5dbbe3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Mary Madaline Killelea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c044e91e86e40e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Mary Elizabeth Donahue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c9cd309d98c79f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/James Timothy Killelea Sr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17be35391067cfd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/James Timothy Killelea Sr.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Madaline Killelea.md",
+                "file": "content/Mary Madaline Killelea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jim Killelea.md",
+                "file": "content/James Timothy Killelea II.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -133,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "null",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +198,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Francis Killelea.md",
+                "file": "content/James Timothy Killelea Sr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Francis Killelea.md",
+                "file": "content/James Timothy Killelea Sr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Francis Killelea.md"
+                "file": "content/James Timothy Killelea Sr.md"
               }
             }
           }
@@ -221,17 +270,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28fa3ac77321eb9d",
+  "active": "c0738f7299d3a858",
   "lastOpenFiles": [
-    "content/Donald Joseph Killelea.md",
+    "content/Mary Elizabeth Donahue.md",
     "content/James Timothy Killelea Sr.md",
-    "content/Jim Killelea.md",
-    "content/Madaline Killelea.md",
+    "content/Mary Madaline Killelea.md",
+    "content/James Timothy Killelea II.md",
     "content/Francis Killelea.md",
+    "content/Donald Joseph Killelea.md",
     "content/Jean Hebel.md",
     "content/Susan Marie Killelea.md",
     "content/James Richard Whitsitt.md",
-    "content/Winnie Owen Redmon.md",
-    "content/William Lackey.md"
+    "content/Winnie Owen Redmon.md"
   ]
 }

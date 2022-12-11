@@ -7,12 +7,7 @@ tags:
 ---
 
 birth:
-  - date: YYYYMMDD
-  - location: #location
-
-death:
-  - date: YYYYMMDD
-  - location: #location
+  - date: 19200620
 
 father: [[James Timothy Killelea Sr]]
 
@@ -20,32 +15,14 @@ mother: [[Mary Elizabeth Donahue]]
 
 siblings:
   - [Donald Joseph Killelea](Donald%20Joseph%20Killelea.md)
-  - [Madaline Killelea](Madaline%20Killelea)
-  - [Jim Killelea](Jim%20Killelea)
+  - [Mary Madaline Killelea](Mary%20Madaline%20Killelea.md)
+  - [James Timothy Killelea II](James%20Timothy%20Killelea%20II.md)
 
 marriage:
-  - date: YYYYMMDD
-  - location: #location
-  - spouse: [name](name.md)  
+  - date: 19440702
+  - location: #Cathedral-Alexandria, #Louisiana, #United-States
+  - spouse: [[Alberta Fribbs]]
 
 children:
-  - null
-
-occupations:
-  - null
-
-military:
-  - start_date: YYYYMMDD
-  - end_date:  YYYYMMDD
-  - wars_conflicts:
-      - null
-
-burial:
-  - location: #location
-  - fsid: "Family Search ID"  
-  - fag: "Find A Grave Memorial"  
-  - wikitree: "WikiTree profile"
-
-biography:
-sources:
-  - null
+  - [[Rita Killelea]]
+  - [[Tom Killelea]]

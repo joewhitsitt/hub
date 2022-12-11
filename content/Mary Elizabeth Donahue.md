@@ -1,21 +1,27 @@
 ---
-title: "James Timothy Killelea Sr."
+title: "Mary Elizabeth Donahue"
+alias:
+- "Mary Liz Donahue"
 tags:
 - killelea
 ---
 
 birth:
-  - date: 18750801
-  - location: #Seneca , #Illinois , #United-States 
+  - date: 18811206
+  - location: #Ottawa , #Illinois, #United-States 
 
 death:
-  - date: 19510605
-  - location: #Ottawa , #Illinois , #United-States 
+  - date: 19750726
+  - location: #Rock-Island
+
+father: [[James Thomas Donahue]]
+
+mother: [[Bridget Agnes Keating]]
 
 marriage:
   - date: 19070403
   - location: #St-Columbia , #Ottawa , #Illinois , #United-States 
-  - spouse: [Mary Elizabeth Donahue](Mary%20Elizabeth%20Donahue.md)
+  - spouse: [James Timothy Killelea Sr](James%20Timothy%20Killelea%20Sr.md)
 
 children:
   - [Mary Madaline Killelea](Mary%20Madaline%20Killelea.md)
