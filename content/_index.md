@@ -7,4 +7,6 @@ enableToc: true
 
 [Wish List](/notes/wishlist.md)
 
+[Tree](/tree)
+
 

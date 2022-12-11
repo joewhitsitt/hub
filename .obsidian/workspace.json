@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39b40280d1709e34",
+        "id": "544e9fcf9bffd94f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae70091050c26f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/tree/joseph-killelea-whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24a5c22b18116c53",
+            "id": "d5b979bece987e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "871d6aa84df71bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/tree/joseph-killelea-whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fcbca4dbfaed8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/templates/post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,14 +136,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "24a5c22b18116c53",
+  "active": "d5b979bece987e4b",
   "lastOpenFiles": [
+    "content/tree/joseph-killelea-whitsitt.md",
+    "content/_index.md",
     "content/notes/wishlist.md",
     "content/notes/second.md",
     "content/notes/hello.md",
     "content/tree/james-richard-whitsitt.md",
-    "content/tree/joseph-killelea-whitsitt.md",
-    "content/_index.md",
     "notes/Second-Note.md",
     "content/templates/post.md",
     "README.md",
