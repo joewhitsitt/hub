@@ -1,5 +1,7 @@
 ---
 title: "Wish List"
+tags:
+- notes
 ---
 
 - Mushroom Jerky

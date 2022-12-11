@@ -1,12 +1,8 @@
 ---
 title: 🪴 (jw).
-enableToc: true
+enableToc: false
 ---
 
-[Notes](/notes)
-
-[Wish List](/notes/wishlist.md)
-
-[Tree](/tree)
+[wishlist](wishlist.md)
 
 

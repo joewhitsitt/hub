@@ -11,28 +11,32 @@
             "id": "d5b979bece987e4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/tree/joseph-killelea-whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "1997dd62466886ff",
+            "id": "460e54d4707ac67b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1c320900c2cddde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tree/Susan Marie Killelea.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tree/Susan Marie Killelea.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tree/Susan Marie Killelea.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tree/Susan Marie Killelea.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -149,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1997dd62466886ff",
+  "active": "c1c320900c2cddde",
   "lastOpenFiles": [
-    "content/tree/joseph-killelea-whitsitt.md",
-    "content/tree/Susan Marie Killelea.md",
-    "content/notes/hello.md",
+    "content/wishlist.md",
+    "content/Susan Marie Killelea.md",
+    "content/James Richard Whitsitt.md",
     "content/_index.md",
-    "content/notes/wishlist.md",
+    "content/notes/hello.md",
     "content/notes/second.md",
-    "content/tree/james-richard-whitsitt.md",
+    "content/Joseph Killelea Whitsitt.md",
+    "tree/james-richard-whitsitt.md",
     "notes/Second-Note.md",
-    "content/templates/post.md",
-    "README.md"
+    "content/templates/post.md"
   ]
 }
