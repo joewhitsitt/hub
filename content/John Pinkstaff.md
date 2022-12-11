@@ -1,7 +1,7 @@
 ---
+title: "John Pinkstaff"
 tags:
 - whitsitt
-title: "John Pinkstaff"
 ---
 
 birth:

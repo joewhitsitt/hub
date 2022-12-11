@@ -1,7 +1,7 @@
 ---
+title: "Susanna Foley"
 tags:
 - whitsitt
-title: "Susanna Foley"
 ---
 
 birth:

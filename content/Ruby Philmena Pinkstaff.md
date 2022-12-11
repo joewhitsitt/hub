@@ -1,7 +1,7 @@
 ---
+title: "Ruby Philmena Pinkstaff"
 tags:
 - whitsitt
-title: "Ruby Philmena Pinkstaff"
 ---
 
 birth:

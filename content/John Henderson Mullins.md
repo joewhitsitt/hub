@@ -1,7 +1,7 @@
 ---
+title: "John Henderson Mullins"
 tags:
 - whitsitt
-title: "John Henderson Mullins"
 ---
 
 birth:

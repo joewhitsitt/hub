@@ -1,8 +1,8 @@
 ---
-tags:
-- whitsitt
 title: "Almon Joseph Whitsitt"
 alias: "AJ Whitsitt"
+tags:
+- whitsitt
 ---
 
 birth:

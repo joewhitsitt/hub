@@ -1,7 +1,7 @@
 ---
+title: "Benjamin Borden"
 tags:
 - whitsitt
-title: "Benjamin Borden"
 ---
 
 father: [Richard Borden](Richard%20Borden.md)  

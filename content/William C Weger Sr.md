@@ -1,7 +1,7 @@
 ---
+title: "William C. Weger Sr."
 tags:
 - whitsitt
-title: "William C. Weger Sr."
 ---
 
 birth:

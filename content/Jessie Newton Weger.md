@@ -1,7 +1,7 @@
 ---
+title: "Jessie Newton Weger"
 tags:
 - whitsitt
-title: "Jessie Newton Weger"
 ---
 
 birth:

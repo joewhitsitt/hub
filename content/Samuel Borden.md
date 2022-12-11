@@ -1,7 +1,7 @@
 ---
+title: "Samuel Borden"
 tags:
 - whitsitt
-title: "Samuel Borden"
 ---
 
 birth:

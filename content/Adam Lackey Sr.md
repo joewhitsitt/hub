@@ -1,7 +1,7 @@
 ---
+title: "Adam Lackey Sr."
 tags:
 - whitsitt
-title: "Adam Lackey Sr."
 ---
 
 birth:

@@ -1,7 +1,7 @@
 ---
+title: "Lucy Jane Mullins"
 tags:
 - whitsitt
-title: "Lucy Jane Mullins"
 ---
 
 birth:

@@ -1,7 +1,7 @@
 ---
+title: "Elizabeth Gragg"
 tags:
 - whitsitt
-title: "Elizabeth Gragg"
 ---
 
 birth:

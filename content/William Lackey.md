@@ -1,7 +1,7 @@
 ---
+title: "William Lackey"
 tags:
 - whitsitt
-title: "William Lackey"
 ---
 
 birth:

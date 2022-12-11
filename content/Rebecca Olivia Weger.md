@@ -1,7 +1,7 @@
 ---
+title: "Rebecca Olivia Weger"
 tags:
 - whitsitt
-title: "Rebecca Olivia Weger"
 ---
 
 birth:

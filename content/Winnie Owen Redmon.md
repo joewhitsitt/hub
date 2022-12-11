@@ -1,8 +1,8 @@
 ---
-tags:
-- whitsitt
 title: "Winnie Owen Redmon"
 alias: "Winnie Owen Redmon Pinkstaff"
+tags:
+- whitsitt
 ---
 
 birth:

@@ -1,7 +1,7 @@
 ---
+title: "Nancy Olivia Lackey Heath"
 tags:
 - whitsitt
-title: "Nancy Olivia Lackey Heath"
 ---
 
 birth:

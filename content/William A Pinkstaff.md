@@ -1,7 +1,7 @@
 ---
+title: "William A. Pinkstaff"
 tags:
 - whitsitt
-title: "William A. Pinkstaff"
 ---
 
 birth:

@@ -1,7 +1,7 @@
 ---
+title: "Joseph Borden"
 tags:
 - whitsitt
-title: "Joseph Borden"
 ---
 
 birth:

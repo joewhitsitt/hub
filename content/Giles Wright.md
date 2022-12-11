@@ -1,7 +1,7 @@
 ---
+title: "Giles Wright"
 tags:
 - whitsitt
-title: "Giles Wright"
 ---
 
 marriage:

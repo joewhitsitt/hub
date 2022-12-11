@@ -1,8 +1,8 @@
 ---
-tags:
-- whitsitt
 title: "James Richard Whitsitt"
 alias: "Jim Whitsitt", "James Whitsitt"
+tags:
+- whitsitt
 ---
 
 birth:

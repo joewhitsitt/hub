@@ -1,8 +1,8 @@
 ---
-tags:
-- killelea
 title: "Susan Marie Killelea"
 alias: "Susan Killelea Whitsitt", "Susan Whitsitt"
+tags:
+- killelea
 ---
 
 birth:

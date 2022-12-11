@@ -1,7 +1,7 @@
 ---
+title: "Stephen Steffey"
 tags:
 - whitsitt
-title: "Stephen Steffey"
 ---
 
 father: [Henry Steffey II](Henry%20Steffey%20II.md)  

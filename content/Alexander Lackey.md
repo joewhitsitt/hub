@@ -1,7 +1,7 @@
 ---
+title: "Alexander Lackey"
 tags:
 - whitsitt
-title: "Alexander Lackey"
 ---
 
 birth:

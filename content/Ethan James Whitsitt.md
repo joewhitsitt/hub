@@ -1,7 +1,7 @@
 ---
 title: "Ethan James Whitsitt"
 tags:
-- tree
+- whitsitt
 ---
 
 father: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)

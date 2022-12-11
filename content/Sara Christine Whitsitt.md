@@ -1,8 +1,8 @@
 ---
-tags:
-- whitsitt
 title: "Sara Christine Whitsitt"
 alias: "Sara Scheib", "Sara Whitsitt"
+tags:
+- whitsitt
 ---
 
 birth:
