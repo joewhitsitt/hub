@@ -25,7 +25,7 @@ siblings:
 
 marriage:
   - date: 19540710
-  - location: #St-Columbia, #Ottawa , #Illinois , #United-States 
+  - location: #St-Columbua, #Ottawa , #Illinois , #United-States 
   - spouse: [[Keith Thomas Kennedy]]
 
 children:

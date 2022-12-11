@@ -21,7 +21,7 @@ siblings:
 marriage:
   - date: 19790427
   - spouse: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
-  - location: #St-Columbia, #Ottawa, #Illinois , #United-States 
+  - location: #St-Columbua, #Ottawa, #Illinois , #United-States 
 
 children:
   - [Sara Christine Whitsitt](Sara%20Christine%20Whitsitt.md)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Susan Marie Killelea.md",
+                "file": "content/Mary Elizabeth Donahue.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "null",
+                "query": "tag:#St-Columbia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Susan Marie Killelea.md",
+                "file": "content/Mary Elizabeth Donahue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Susan Marie Killelea.md",
+                "file": "content/Mary Elizabeth Donahue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Susan Marie Killelea.md"
+                "file": "content/Mary Elizabeth Donahue.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "75da20ebdce252e9",
   "lastOpenFiles": [
-    "content/Francis Killelea.md",
-    "content/James Timothy Killelea Sr.md",
-    "content/Mary Elizabeth Donahue.md",
+    "content/Susan Marie Killelea.md",
     "content/Mary Madaline Killelea.md",
+    "content/James Timothy Killelea Sr.md",
     "content/James Timothy Killelea II.md",
+    "content/James Richard Whitsitt.md",
+    "content/Francis Killelea.md",
+    "content/Mary Elizabeth Donahue.md",
     "content/Donald Joseph Killelea.md",
     "content/Jean Hebel.md",
-    "content/Susan Marie Killelea.md",
-    "content/James Richard Whitsitt.md",
     "content/Winnie Owen Redmon.md"
   ]
 }

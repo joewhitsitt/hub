@@ -25,7 +25,7 @@ siblings:
 
 marriage:
   - date: 19580803
-  - location: #St-Columbia , #Ottawa , #Illinois , #United-States 
+  - location: #St-Columbua  , #Ottawa , #Illinois , #United-States 
   - spouse: [[Leah Bell Hunnicutt]]
 
 children:

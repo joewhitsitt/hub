@@ -14,7 +14,7 @@ death:
 
 marriage:
   - date: 19070403
-  - location: #St-Columbia , #Ottawa , #Illinois , #United-States 
+  - location: #St-Columbua , #Ottawa , #Illinois , #United-States 
   - spouse: [Mary Elizabeth Donahue](Mary%20Elizabeth%20Donahue.md)
 
 children:
