@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Richard Borden"
+title: "Richard Borden"
 ---
 
 birth:

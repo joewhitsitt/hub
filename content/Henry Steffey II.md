@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Henry Steffey II"
+title: "Henry Steffey II"
 ---
 
 birth:

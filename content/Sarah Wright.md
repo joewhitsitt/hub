@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Sarah Wright"
+title: "Sarah Wright"
 ---
 
 birth:

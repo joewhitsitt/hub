@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "James Leckie"
+title: "James Leckie"
 ---
 
 birth:

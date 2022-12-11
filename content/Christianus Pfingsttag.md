@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Christianus Pfingsttag"
+title: "Christianus Pfingsttag"
 ---
 
 birth:

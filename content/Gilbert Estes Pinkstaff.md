@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Gilbert Estes Pinkstaff"
+title: "Gilbert Estes Pinkstaff"
 ---
 
 birth:

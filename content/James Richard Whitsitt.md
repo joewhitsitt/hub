@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "James Richard Whitsitt"
+title: "James Richard Whitsitt"
 alias: "Jim Whitsitt", "James Whitsitt"
 ---
 

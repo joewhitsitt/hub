@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "William E. Weger"
+title: "William E. Weger"
 ---
 
 birth:

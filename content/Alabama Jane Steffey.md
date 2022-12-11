@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Alabama Jane Steffey"
+title: "Alabama Jane Steffey"
 alias: "Al Steffey"
 ---
 

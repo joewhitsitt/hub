@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Firman Borden"
+title: "Firman Borden"
 alias: "Furman Borden"
 ---
 

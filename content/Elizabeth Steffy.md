@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Elizabeth Steffy"
+title: "Elizabeth Steffy"
 ---
 
 birth:

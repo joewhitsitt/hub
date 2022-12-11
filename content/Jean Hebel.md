@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Jean Hebel"
+title: "Jean Hebel"
 alias: "Jean Killelea"
 ---
 

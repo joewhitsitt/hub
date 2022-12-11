@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Priscilla C Wardell"
+title: "Priscilla C Wardell"
 ---
 
 birth:

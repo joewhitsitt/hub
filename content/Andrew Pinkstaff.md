@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Andrew Pinkstaff"
+title: "Andrew Pinkstaff"
 ---
 
 birth:

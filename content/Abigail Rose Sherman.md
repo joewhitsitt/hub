@@ -1,7 +1,7 @@
 ---
 tags:
 - sherman
-name: "Abigail Rose Sherman"
+title: "Abigail Rose Sherman"
 alias: "Abby Whitsitt"
 ---
 

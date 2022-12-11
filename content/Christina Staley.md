@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Christina Staley"
+title: "Christina Staley"
 alias: "Teney Staley"
 ---
 

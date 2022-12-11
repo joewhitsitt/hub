@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Henry Steffey"
+title: "Henry Steffey"
 ---
 
 birth:

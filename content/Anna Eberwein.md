@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Anna Eberwein"
+title: "Anna Eberwein"
 ---
 
 birth:

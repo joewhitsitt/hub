@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Jonathan Borden Jr"
+title: "Jonathan Borden Jr"
 ---
 
 father: [Jonathan Borden Sr](Jonathan%20Borden%20Sr.md)  

@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Janet Craig"
+title: "Janet Craig"
 ---
 
 birth:

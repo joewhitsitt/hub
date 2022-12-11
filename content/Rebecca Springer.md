@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Rebecca Springer"
+title: "Rebecca Springer"
 ---
 
 father: [A. Springer](A.%20Springer)   

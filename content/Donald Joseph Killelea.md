@@ -1,7 +1,7 @@
 ---
 tags:
 - killelea
-name: "Donald Joseph Killelea"
+title: "Donald Joseph Killelea"
 ---
 
 siblings:

@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Maria Jane Borden"
+title: "Maria Jane Borden"
 alias: "Janey Borden"
 ---
 

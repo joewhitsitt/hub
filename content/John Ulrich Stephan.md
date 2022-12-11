@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "John Ulrich Stephan"
+title: "John Ulrich Stephan"
 ---
 
 birth:

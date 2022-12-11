@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Almon Joseph Whitsitt"
+title: "Almon Joseph Whitsitt"
 alias: "AJ Whitsitt"
 ---
 

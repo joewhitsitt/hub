@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Alfred Pinkstaff"
+title: "Alfred Pinkstaff"
 ---
 
 birth:

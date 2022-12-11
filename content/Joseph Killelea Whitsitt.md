@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Joseph Killelea Whitsitt"
+title: "Joseph Killelea Whitsitt"
 alias: "Joe", "Joe Whitsitt", "Joseph Whitsitt"
 ---
 

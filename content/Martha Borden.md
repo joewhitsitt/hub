@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Martha Borden"
+title: "Martha Borden"
 ---
 
 birth:

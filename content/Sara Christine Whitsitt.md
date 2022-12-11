@@ -1,7 +1,7 @@
 ---
 tags:
 - whitsitt
-name: "Sara Christine Whitsitt"
+title: "Sara Christine Whitsitt"
 alias: "Sara Scheib", "Sara Whitsitt"
 ---
 
