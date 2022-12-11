@@ -1,6 +1,8 @@
 ---
 title: "Susan Marie Killelea"
-alias: "Susan Killelea Whitsitt", "Susan Whitsitt"
+alias:
+- "Susan Killelea Whitsitt"
+- "Susan Whitsitt"
 tags:
 - killelea
 ---

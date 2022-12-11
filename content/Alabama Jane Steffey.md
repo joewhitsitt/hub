@@ -2,7 +2,8 @@
 title: "Alabama Jane Steffey"
 tags:
 - whitsitt
-alias: "Al Steffey"
+alias:
+- "Al Steffey"
 ---
 
 birth:

@@ -1,6 +1,7 @@
 ---
 title: "Jean Hebel"
-alias: "Jean Killelea"
+alias:
+- "Jean Killelea"
 ---
 
 birth:

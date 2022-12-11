@@ -1,6 +1,7 @@
 ---
 title: "Almon Joseph Whitsitt"
-alias: "AJ Whitsitt"
+alias:
+- "AJ Whitsitt"
 tags:
 - whitsitt
 ---

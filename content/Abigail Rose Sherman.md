@@ -2,7 +2,8 @@
 title: "Abigail Rose Sherman"
 tags:
 - sherman
-alias: "Abby Whitsitt"
+alias:
+- "Abby Whitsitt"
 ---
 
 birth:

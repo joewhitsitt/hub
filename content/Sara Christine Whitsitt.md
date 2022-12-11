@@ -1,6 +1,8 @@
 ---
 title: "Sara Christine Whitsitt"
-alias: "Sara Scheib", "Sara Whitsitt"
+alias:
+- "Sara Scheib"
+- "Sara Whitsitt"
 tags:
 - whitsitt
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Winnie Owen Redmon"
-alias: "Winnie Owen Redmon Pinkstaff"
+alias:
+- "Winnie Owen Redmon Pinkstaff"
 tags:
 - whitsitt
 ---
