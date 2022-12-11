@@ -1,20 +1,16 @@
 ---
-title: "Joseph Killelea Whitsitt"
 tags:
-- tree
-alias:
-- "Joe"
-- "Joe Whitsitt"
-- "Joseph Whitsitt"
+- whitsitt
+name: "Joseph Killelea Whitsitt"
+alias: "Joe", "Joe Whitsitt", "Joseph Whitsitt"
 ---
+
 birth:
   - date: 19850318
   - location: #Iowa-City, #Johnson-County, #Iowa, #United-States
 
-father: [James Richard Whitsitt](James%20Richard%20Whitsitt.md)
-
+father: [James Richard Whitsitt](James%20Richard%20Whitsitt.md)  
 mother: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
-
 siblings:
   - [Sara Christine Whitsitt](Sara%20Christine%20Whitsitt.md)
 
@@ -24,8 +20,8 @@ marriage:
   - spouse: [Abigail Rose Sherman](Abigail%20Rose%20Sherman.md)
 
 children:
-  - [Evelyn Naidene Whitsitt](Evelyn%20Naidene%20Whitsitt.md)
-  - [Ethan James Whitsitt](Ethan%20James%20Whitsitt.md)
+  - [Evelyn Naidene Whitsitt](Evelyn%20Naidene%20Whitsitt)
+  - [Ethan James Whitsitt](Ethan%20James%20Whitsitt)
 
 occupations:
   - "Senior Application Developer", "The University of Iowa"

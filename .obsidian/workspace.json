@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Second Note.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Second Note.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Second Note.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Second Note.md"
+                "file": "content/Joseph Killelea Whitsitt.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "855b368e638a2b25",
   "lastOpenFiles": [
-    "content/Hello World.md",
+    "content/Abigail Rose Sherman.md",
+    "content/Benjamin Sherman.md",
     "content/Second Note.md",
+    "content/Hello World.md",
     "content/templates/tree.md",
     "content/_index.md",
     "content/Sara Christine Whitsitt.md",
     "content/Susan Marie Killelea.md",
     "content/Joseph Killelea Whitsitt.md",
-    "content/James Richard Whitsitt.md",
-    "content/Evelyn Naidene Whitsitt.md",
-    "content/Ethan James Whitsitt.md"
+    "content/James Richard Whitsitt.md"
   ]
 }
