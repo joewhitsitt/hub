@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Winnie Owen Redmon.md",
+                "file": "content/James Richard Whitsitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Winnie Owen Redmon.md",
+                "file": "content/James Richard Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Winnie Owen Redmon.md",
+                "file": "content/James Richard Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Winnie Owen Redmon.md"
+                "file": "content/James Richard Whitsitt.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "855b368e638a2b25",
   "lastOpenFiles": [
+    "content/Winnie Owen Redmon.md",
     "content/William Lackey.md",
     "content/William E Weger.md",
     "content/William C Weger Sr.md",
@@ -146,7 +147,6 @@
     "content/Susan Marie Killelea.md",
     "content/Stephen Steffey.md",
     "content/Second Note.md",
-    "content/Sarah Wright.md",
-    "content/Sara Christine Whitsitt.md"
+    "content/Sarah Wright.md"
   ]
 }
