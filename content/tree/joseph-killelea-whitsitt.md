@@ -8,4 +8,4 @@ alias:
 
 father: [James Richard Whitsitt](/tree/james-richard-whitsitt.md)
 
-mother: [[Susan Marie Killelea]]
+mother: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
