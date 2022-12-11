@@ -5,4 +5,4 @@ enableToc: false
 
 Hello.
 
-[See notes](/notes/)
+[See notes](/notes)

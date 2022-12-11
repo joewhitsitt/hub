@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7b5b7110cfaae98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "content/notes/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "content/notes/Hello.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7b5b7110cfaae98",
+  "active": "ae70091050c26f18",
   "lastOpenFiles": [
-    "screenshot.png",
     "README.md",
-    "CODE_OF_CONDUCT.md",
-    "content/notes/Second Note.md",
+    "content/templates/post.md",
+    "content/_index.md",
     "content/notes/Hello.md",
+    "content/notes/Second Note.md",
+    "content/notes/Wish List.md",
+    "screenshot.png",
+    "CODE_OF_CONDUCT.md",
     "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/kitchen sink.md",
-    "content/notes/config.md",
-    "content/notes/images/github-actions.png",
-    "content/notes/images/google-domains.png"
+    "content/notes/kitchen sink.md"
   ]
 }
