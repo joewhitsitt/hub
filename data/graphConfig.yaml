@@ -24,11 +24,11 @@ globalGraph:
     enableDrag: true
     enableZoom: true
     depth: -1 # set to -1 to show full graph
-    scale: 7
-    repelForce: 10
+    scale: 1.2
+    repelForce: 5
     centerForce: 0
-    linkDistance: 10
-    fontSize: 0.5
+    linkDistance: 5
+    fontSize: 0.9
     opacityScale: 3
 
 ### For all graphs ###
