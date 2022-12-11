@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Second Note.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Second Note.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Second Note.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Second Note.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "d5b979bece987e4b",
   "lastOpenFiles": [
+    "content/notes/Second Note.md",
     "content/_index.md",
     "content/notes/Hello World.md",
-    "content/notes/Second Note.md",
     "content/Sara Christine Whitsitt.md",
     "content/Susan Marie Killelea.md",
     "content/Joseph Killelea Whitsitt.md",
