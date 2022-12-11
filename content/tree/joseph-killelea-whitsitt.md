@@ -6,6 +6,6 @@ alias:
 - "Joseph Whitsitt"
 ---
 
-father: [[James Richard Whitsitt]]
+father: [[james-richard-whitsitt]]
 
 mother: [[Susan Marie Killelea]]
