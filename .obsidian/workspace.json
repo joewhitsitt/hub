@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1db76f8f6963ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fa72eb88c3eed1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Hello World.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5b979bece987e4b",
+  "active": "6fa72eb88c3eed1a",
   "lastOpenFiles": [
+    "content/notes/Second Note.md",
+    "content/notes/Hello World.md",
+    "content/_index.md",
     "content/Sara Christine Whitsitt.md",
     "content/Susan Marie Killelea.md",
     "content/Joseph Killelea Whitsitt.md",
     "content/James Richard Whitsitt.md",
     "content/Evelyn Naidene Whitsitt.md",
     "content/Ethan James Whitsitt.md",
-    "content/Abigail Rose Sherman.md",
-    "content/_index.md",
-    "content/templates/post.md",
-    "content/private/private-note.md"
+    "content/Abigail Rose Sherman.md"
   ]
 }
