@@ -4,8 +4,8 @@ tags:
 - tree
 ---
 
-spouse: [Joseph Killelea Whitsitt](content/Joseph%20Killelea%20Whitsitt.md)
+spouse: [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
 
 children:
-- [Evelyn Naidene Whitsitt](content/Evelyn%20Naidene%20Whitsitt.md)
-- [Ethan James Whitsitt](content/Ethan%20James%20Whitsitt.md)
+- [Evelyn Naidene Whitsitt](Evelyn%20Naidene%20Whitsitt.md)
+- [Ethan James Whitsitt](Ethan%20James%20Whitsitt.md)

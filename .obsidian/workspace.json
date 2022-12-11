@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
+                "file": "content/Sara Christine Whitsitt.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "content/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
+                "file": "content/Sara Christine Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
+                "file": "content/Sara Christine Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Joseph Killelea Whitsitt.md"
+                "file": "content/Sara Christine Whitsitt.md"
               }
             }
           }
@@ -138,14 +139,14 @@
   },
   "active": "d5b979bece987e4b",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/Susan Marie Killelea.md",
+    "content/Sara Christine Whitsitt.md",
+    "content/Joseph Killelea Whitsitt.md",
+    "content/James Richard Whitsitt.md",
     "content/Evelyn Naidene Whitsitt.md",
     "content/Ethan James Whitsitt.md",
     "content/Abigail Rose Sherman.md",
-    "content/Joseph Killelea Whitsitt.md",
-    "content/Susan Marie Killelea.md",
-    "content/James Richard Whitsitt.md",
-    "content/Sara Christine Whitsitt.md",
+    "content/_index.md",
     "content/templates/post.md",
     "content/private/private-note.md"
   ]

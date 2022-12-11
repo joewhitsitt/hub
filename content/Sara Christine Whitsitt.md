@@ -9,4 +9,4 @@ father: [James Richard Whitsitt](James%20Richard%20Whitsitt.md)
 mother: [Susan Marie Killelea](Susan%20Marie%20Killelea.md)
 
 siblings:
-- [Joseph Killelea Whitsitt](content/Joseph%20Killelea%20Whitsitt.md)
+- [Joseph Killelea Whitsitt](Joseph%20Killelea%20Whitsitt.md)
