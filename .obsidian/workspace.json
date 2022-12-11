@@ -18,77 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06b7e4f78f5b101c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3f0d207c9877b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5349180d5aca7f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Evelyn Naidene Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "460e54d4707ac67b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1c320900c2cddde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Joseph Killelea Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1306668a2cccdb14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Sara Christine Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Evelyn Naidene Whitsitt.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Evelyn Naidene Whitsitt.md",
+                "file": "content/Joseph Killelea Whitsitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Evelyn Naidene Whitsitt.md"
+                "file": "content/Joseph Killelea Whitsitt.md"
               }
             }
           }
@@ -205,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5349180d5aca7f02",
+  "active": "d5b979bece987e4b",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/Evelyn Naidene Whitsitt.md",
     "content/Ethan James Whitsitt.md",
     "content/Abigail Rose Sherman.md",
     "content/Joseph Killelea Whitsitt.md",
     "content/Susan Marie Killelea.md",
     "content/James Richard Whitsitt.md",
     "content/Sara Christine Whitsitt.md",
-    "content/Evelyn Naidene Whitsitt.md",
     "content/templates/post.md",
-    "content/private/private-note.md",
-    "content/_index.md"
+    "content/private/private-note.md"
   ]
 }

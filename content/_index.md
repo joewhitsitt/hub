@@ -3,4 +3,4 @@ title: 🪴 (jw).
 enableToc: false
 ---
 
-[family-tree](tags/family-tree/)
+[view all family tree entries](tags/tree)
