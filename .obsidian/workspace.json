@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "662a5af368f3a747",
+        "id": "b2db96bfc24dc58f",
         "type": "tabs",
         "children": [
           {
-            "id": "855b368e638a2b25",
+            "id": "2e70948a92a57d04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/James Richard Whitsitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75da20ebdce252e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Mary Elizabeth Donahue.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#St-Columbia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,9 +60,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6580fa5b30193e0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Mary Elizabeth Donahue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Mary Elizabeth Donahue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Mary Elizabeth Donahue.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,15 +136,25 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75da20ebdce252e9",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e70948a92a57d04",
   "lastOpenFiles": [
+    "content/James Richard Whitsitt.md",
+    "content/Mary Elizabeth Donahue.md",
     "content/Susan Marie Killelea.md",
     "content/Mary Madaline Killelea.md",
     "content/James Timothy Killelea Sr.md",
     "content/James Timothy Killelea II.md",
-    "content/James Richard Whitsitt.md",
     "content/Francis Killelea.md",
-    "content/Mary Elizabeth Donahue.md",
     "content/Donald Joseph Killelea.md",
     "content/Jean Hebel.md",
     "content/Winnie Owen Redmon.md"
